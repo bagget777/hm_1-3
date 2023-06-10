@@ -1,0 +1,6 @@
+venv/
+config.py
+.venv
+pycaсhe/
+.gitignore
+__pycache__/
